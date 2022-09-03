@@ -6,4 +6,6 @@ package teme;
 //LocalDate.now() method.
 
 public class CourseDaysLeft {
+
+    //test
 }
